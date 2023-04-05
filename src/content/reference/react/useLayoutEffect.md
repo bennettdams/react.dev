@@ -126,6 +126,14 @@ export default function App() {
           </div>
         }
       >
+        Hover over me (tooltip below)
+      </ButtonWithTooltip>
+      <div style={{ height: 50 }} />
+      <ButtonWithTooltip
+        tooltipContent={
+          <div>This tooltip fits above the button</div>
+        }
+      >
         Hover over me (tooltip above)
       </ButtonWithTooltip>
       <div style={{ height: 50 }} />
@@ -134,15 +142,7 @@ export default function App() {
           <div>This tooltip fits above the button</div>
         }
       >
-        Hover over me (tooltip below)
-      </ButtonWithTooltip>
-      <div style={{ height: 50 }} />
-      <ButtonWithTooltip
-        tooltipContent={
-          <div>This tooltip fits above the button</div>
-        }
-      >
-        Hover over me (tooltip below)
+        Hover over me (tooltip above)
       </ButtonWithTooltip>
     </div>
   );
@@ -276,6 +276,14 @@ export default function App() {
           </div>
         }
       >
+        Hover over me (tooltip below)
+      </ButtonWithTooltip>
+      <div style={{ height: 50 }} />
+      <ButtonWithTooltip
+        tooltipContent={
+          <div>This tooltip fits above the button</div>
+        }
+      >
         Hover over me (tooltip above)
       </ButtonWithTooltip>
       <div style={{ height: 50 }} />
@@ -284,15 +292,7 @@ export default function App() {
           <div>This tooltip fits above the button</div>
         }
       >
-        Hover over me (tooltip below)
-      </ButtonWithTooltip>
-      <div style={{ height: 50 }} />
-      <ButtonWithTooltip
-        tooltipContent={
-          <div>This tooltip fits above the button</div>
-        }
-      >
-        Hover over me (tooltip below)
+        Hover over me (tooltip above)
       </ButtonWithTooltip>
     </div>
   );
@@ -423,6 +423,14 @@ export default function App() {
           </div>
         }
       >
+        Hover over me (tooltip below)
+      </ButtonWithTooltip>
+      <div style={{ height: 50 }} />
+      <ButtonWithTooltip
+        tooltipContent={
+          <div>This tooltip fits above the button</div>
+        }
+      >
         Hover over me (tooltip above)
       </ButtonWithTooltip>
       <div style={{ height: 50 }} />
@@ -431,15 +439,7 @@ export default function App() {
           <div>This tooltip fits above the button</div>
         }
       >
-        Hover over me (tooltip below)
-      </ButtonWithTooltip>
-      <div style={{ height: 50 }} />
-      <ButtonWithTooltip
-        tooltipContent={
-          <div>This tooltip fits above the button</div>
-        }
-      >
-        Hover over me (tooltip below)
+        Hover over me (tooltip above)
       </ButtonWithTooltip>
     </div>
   );
@@ -566,6 +566,14 @@ export default function App() {
           </div>
         }
       >
+        Hover over me (tooltip below)
+      </ButtonWithTooltip>
+      <div style={{ height: 50 }} />
+      <ButtonWithTooltip
+        tooltipContent={
+          <div>This tooltip fits above the button</div>
+        }
+      >
         Hover over me (tooltip above)
       </ButtonWithTooltip>
       <div style={{ height: 50 }} />
@@ -574,15 +582,7 @@ export default function App() {
           <div>This tooltip fits above the button</div>
         }
       >
-        Hover over me (tooltip below)
-      </ButtonWithTooltip>
-      <div style={{ height: 50 }} />
-      <ButtonWithTooltip
-        tooltipContent={
-          <div>This tooltip fits above the button</div>
-        }
-      >
-        Hover over me (tooltip below)
+        Hover over me (tooltip above)
       </ButtonWithTooltip>
     </div>
   );
